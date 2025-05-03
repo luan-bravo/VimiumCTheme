@@ -477,7 +477,7 @@ body.has-dark{
 
 #bar::before{
     /*for hint or content icon before typing*/
-    content: "?";
+    content: "➤";
     position: absolute;
     left: 20px;
     z-index: 300;
