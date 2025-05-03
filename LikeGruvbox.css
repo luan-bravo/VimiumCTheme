@@ -160,7 +160,7 @@ body.has-dark{
     left: 20px;
     z-index: 300;
     padding: 6px 0;
-    font-weight: bold;f
+    font-weight: bold;
     font-size: var(--font-size);
     color: var(--fg);
 }
